@@ -25,7 +25,7 @@ git pull
 git clone https://github.com/DaHuaJia/GitTest.git
 
 ### 配置全局变量，将账号和密码设置为全局变量
-git config --global.name "1158805583@qq.com" 
+git config --global.name "1158805583@qq.com"   
 git config --global.password "xxxxxxxxxx"
 
 2019年12月13日12:07:36
